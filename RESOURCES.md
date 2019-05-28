@@ -88,3 +88,9 @@
 ## BarCode Scanner:
 - https://docs.expo.io/versions/latest/sdk/bar-code-scanner
 => Register Thing; Policy, and Keys.
+
+## AWS Deployment Pipeline:
+- Basics: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/continuous-delivery-codepipeline-basic-walkthrough.html
+- Cross account: https://aws.amazon.com/blogs/devops/aws-building-a-secure-cross-account-continuous-delivery-pipeline/
+- ECS Pipeline: https://github.com/awslabs/ecs-refarch-continuous-deployment
+- ECS Java: https://aws.amazon.com/blogs/compute/deploying-java-microservices-on-amazon-ec2-container-service/
