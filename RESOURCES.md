@@ -10,6 +10,9 @@
 
 ## Server Side Rendering
 - SSR for Express using Puppeteer: https://developers.google.com/web/tools/puppeteer/articles/ssr
+- Rendering on the Web: https://developers.google.com/web/updates/2019/02/rendering-on-the-web
+- Vue, Nuxt and Lambda: https://dev.to/adnanrahic/a-crash-course-on-serverless-side-rendering-with-vuejs-nuxtjs-and-aws-lambda-1nk4
+- https://github.com/davidroyer/nuxt-ssr-firebase
 
 ## Device API's
 - https://developers.google.com/web/fundamentals/
@@ -46,8 +49,11 @@
 - https://firebase.google.com/docs/cloud-messaging/js/first-message
 - https://css-tricks.com/implementing-push-notifications-back-end/
 
-## Web Components
+## Web Components / PWA / AppShell
 - https://github.com/shawnbot/custom-elements
+- https://developers.google.com/web/updates/2015/11/app-shell
+- https://github.com/GoogleChromeLabs/application-shell
+- https://love2dev.com/blog/app-shell/
 
 ## Google Payments
 - https://developers.google.com/web/fundamentals/payments/deep-dive-into-payment-request
@@ -94,3 +100,27 @@
 - Cross account: https://aws.amazon.com/blogs/devops/aws-building-a-secure-cross-account-continuous-delivery-pipeline/
 - ECS Pipeline: https://github.com/awslabs/ecs-refarch-continuous-deployment
 - ECS Java: https://aws.amazon.com/blogs/compute/deploying-java-microservices-on-amazon-ec2-container-service/
+
+## AWS SSO CLI:
+- https://github.com/prolane/samltoawsstskeys
+
+## AWS Serverless:
+- https://github.com/awslabs/serverless-application-model/blob/master/HOWTO.md
+
+## CSS Grid and Frameworks
+- Wordpress Theme: https://github.com/mor10/kuhn
+- Compare: https://www.sitepoint.com/most-popular-frontend-frameworks-compared/
+
+## Jenkins
+- https://github.com/jenkinsci/pipeline-examples?files=1
+
+## Code Styleguides / General Developer Guides
+- From creator of NodeJs: https://deno.land/style_guide.html
+- AWS and Search: https://github.com/open-guides/
+- Angular: https://angular.io/guide/styleguide
+- Multilingual sites: https://support.google.com/webmasters/answer/182192?hl=en
+- Google Cloud Functions: https://cloud.google.com/functions/docs/bestpractices/tips
+
+## Performance
+- https://developers.google.com/web/fundamentals/performance/critical-rendering-path/analyzing-crp
+- https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization/
