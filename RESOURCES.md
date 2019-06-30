@@ -113,6 +113,7 @@
 
 ## Jenkins
 - https://github.com/jenkinsci/pipeline-examples?files=1
+- Serverless: https://jenkins.io/blog/2019/02/28/serverless-jenkins/
 
 ## Code Styleguides / General Developer Guides
 - From creator of NodeJs: https://deno.land/style_guide.html
