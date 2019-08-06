@@ -100,6 +100,8 @@
 - Cross account: https://aws.amazon.com/blogs/devops/aws-building-a-secure-cross-account-continuous-delivery-pipeline/
 - ECS Pipeline: https://github.com/awslabs/ecs-refarch-continuous-deployment
 - ECS Java: https://aws.amazon.com/blogs/compute/deploying-java-microservices-on-amazon-ec2-container-service/
+- ECS Blue/Green Tutorial: https://docs.aws.amazon.com/AmazonECS/latest/developerguide/create-blue-green.html
+- ECS Blue/Green Terraform: https://github.com/onedaywillcome1/BlueGreenDemo/blob/master/deploy/terraform/fargate_codedeploy/service.tf
 
 ## AWS SSO CLI:
 - https://github.com/prolane/samltoawsstskeys
